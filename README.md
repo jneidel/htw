@@ -1,4 +1,4 @@
-# htw-berlin-angewandte-informatik-bachelor
+# Angewandte Informatik (BSc) an der HTW Berlin
 
 > Übersicht über mein Studium der Angewandten Informatik an der HTW Berlin
 
