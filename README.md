@@ -6,6 +6,7 @@
 
 - [jneidel/htw-internet.org-entwicklung](https://github.com/jneidel/htw-internet.org-entwicklung) - Wissenschaftliche Arbeit im Rahmen von Gesellschaftliche Aspekte der Informatik
 - [jneidel/htw-prog1](https://github.com/jneidel/htw-prog1) - Übungsaufgaben für Programmieren 1
+- [jneidel/htw-algorithmen-datenstrukturen](https://github.com/jneidel/htw-algorithmen-datenstrukturen) - Übungsaufgaben für Algorithmen und Datenstrukturen
 
 ## Semesterübergreifend
 
