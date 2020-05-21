@@ -15,4 +15,4 @@
 ## Semesterübergreifend
 
 - [htw-folien](https://github.com/jneidel/htw-folien) - Folien zur Referenz (verschlüsselt)
-
+- [uni](https://github.com/jneidel/uni) - [Privat] Sync von Uni Unterlagen
