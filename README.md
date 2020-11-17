@@ -2,6 +2,12 @@
 
 > Übersicht über mein Studium der Angewandten Informatik an der HTW Berlin
 
+## 3. Semester
+
+- [htw-webdev-todo](https://github.com/jneidel/htw-webdev-todo) - Todo App, Gruppenarbeit im Rahmen von Webentwicklung
+- [vyvy/avt](https://github.com/vyvytn/avt) - DJ Tool, Gruppenarbeit im Rahmen von Audio- und Videotechnik
+- [htw-gds](https://github.com/jneidel/htw-gds) - Gruppenarbeit im Rahmen von Grundlagen Data Science
+
 ## 2. Semester
 
 - [htw-algorithmen-datenstrukturen](https://github.com/jneidel/htw-algorithmen-datenstrukturen) - Übungsaufgaben für Algorithmen und Datenstrukturen
