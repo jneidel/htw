@@ -6,6 +6,7 @@
 
 - [htw-webdev-todo](https://github.com/jneidel/htw-webdev-todo) - Todo App, Gruppenarbeit im Rahmen von Webentwicklung
 - [vyvy/avt](https://github.com/vyvytn/avt) - DJ Tool, Gruppenarbeit im Rahmen von Audio- und Videotechnik
+- [htw-prog3](https://github.com/jneidel/htw-prog3) - Belegarbeit für Programmieren 3
 - [htw-gds](https://github.com/jneidel/htw-gds) - Gruppenarbeit im Rahmen von Grundlagen Data Science
 
 ## 2. Semester
