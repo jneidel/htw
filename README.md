@@ -2,6 +2,10 @@
 
 > Übersicht über mein Studium der Angewandten Informatik an der HTW Berlin
 
+## 4. Semester
+
+- [htw-projekt-p2p-volltextsuche/p2p-dht](https://github.com/htw-projekt-p2p-volltextsuche/p2p-dht) - Domänen agnostisches DHT im Rahmen einer verteilten Volltextsuche (Projekt)
+
 ## 3. Semester
 
 - [htw-webdev-todo](https://github.com/jneidel/htw-webdev-todo) - Todo App, Gruppenarbeit im Rahmen von Webentwicklung
