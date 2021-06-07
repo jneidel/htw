@@ -4,25 +4,25 @@
 
 ## 4. Semester
 
-- [htw-projekt-p2p-volltextsuche/p2p-dht](https://github.com/htw-projekt-p2p-volltextsuche/p2p-dht) - Domänen agnostisches DHT im Rahmen einer verteilten Volltextsuche (Projekt)
-- [htw-Ahnenforschung-mit-DNA](https://github.com/jneidel/htw-Ahnenforschung-mit-DNA) - Vortrag im Rahmen von Datenschutz und Datensicherheit
+- [htw-projekt-p2p-volltextsuche/p2p-dht](https://github.com/htw-projekt-p2p-volltextsuche/p2p-dht) - Domänen agnostisches DHT in JavaScript [Verteilte Volltextsuche (Projekt)]
+- [htw-Ahnenforschung-mit-DNA](https://github.com/jneidel/htw-Ahnenforschung-mit-DNA) - Vortrag zu Datenschutzaspekten der DNA Ahnenforschung [Datenschutz und Datensicherheit]
 
 ## 3. Semester
 
-- [what-to-do](https://github.com/jneidel/what-to-do) - Todo App in Node/Vue, Gruppenarbeit im Rahmen von Webentwicklung
-- [vyvy/avt](https://github.com/vyvytn/avt) - DJ Tool in Vue, Gruppenarbeit im Rahmen von Audio- und Videotechnik
-- [htw-prog3](https://github.com/jneidel/htw-prog3) - Belegarbeit für Programmieren 3
-- [htw-gds](https://github.com/jneidel/htw-gds) - Gruppenarbeit im Rahmen von Grundlagen Data Science
+- [what-to-do](https://github.com/jneidel/what-to-do) - Todo App in Node/Vue [Webentwicklung]
+- [vyvy/avt](https://github.com/vyvytn/avt) - DJ Tool in Vue [Audio- und Videotechnik]
+- [htw-prog3](https://github.com/jneidel/htw-prog3) - Java Belegarbeit [Programmieren 3]
+- [htw-gds-saisonaler-import-export](https://github.com/jneidel/htw-gds-saisonaler-import-export) - Datenanalyse zur Saisonalität von Obst/Gemüse [Grundlagen Data Science]
 
 ## 2. Semester
 
-- [htw-algorithmen-datenstrukturen](https://github.com/jneidel/htw-algorithmen-datenstrukturen) - Übungsaufgaben für Algorithmen und Datenstrukturen
-- [htw-prog2](https://github.com/jneidel/htw-prog2) - Übungsaufgaben für Programmieren 2
+- [htw-algorithmen-datenstrukturen](https://github.com/jneidel/htw-algorithmen-datenstrukturen) - Java Übungsaufgaben [Algorithmen und Datenstrukturen]
+- [htw-prog2](https://github.com/jneidel/htw-prog2) - einfache Java Übungsaufgaben [Programmieren 2]
 
 ## 1. Semester
 
-- [htw-internet.org-entwicklung](https://github.com/jneidel/htw-internet.org-entwicklung) - Wissenschaftliche Arbeit im Rahmen von Gesellschaftliche Aspekte der Informatik
-- [htw-prog1](https://github.com/jneidel/htw-prog1) - Übungsaufgaben für Programmieren 1
+- [htw-internet.org-entwicklung](https://github.com/jneidel/htw-internet.org-entwicklung) - Aufarbeitung von Facebook's Internet.org Initiative [Gesellschaftliche Aspekte der Informatik]
+- [htw-prog1](https://github.com/jneidel/htw-prog1) - einfache Java Übungsaufgaben [Programmieren 1]
 
 ## Semesterübergreifend
 
