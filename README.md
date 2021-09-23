@@ -4,7 +4,7 @@
 
 ## 4. Semester
 
-- [htw-projekt-p2p-volltextsuche/p2p-dht](https://github.com/htw-projekt-p2p-volltextsuche/p2p-dht) - Domänen agnostisches DHT in JavaScript [Verteilte Volltextsuche (Projekt)]
+- [htw-projekt-p2p-volltextsuche/p2p-dht](https://github.com/htw-projekt-p2p-volltextsuche/p2p-dht) - Domänen agnostisches DHT in NodeJS [Verteilte Volltextsuche (Projekt)]
 - [htw-Ahnenforschung-mit-DNA](https://github.com/jneidel/htw-Ahnenforschung-mit-DNA) - Vortrag zu Datenschutzaspekten der DNA Ahnenforschung [Datenschutz und Datensicherheit]
 
 ## 3. Semester
