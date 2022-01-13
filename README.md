@@ -2,6 +2,8 @@
 
 > Übersicht über mein Studium der Angewandten Informatik an der HTW Berlin
 
+## 5. Semester
+
 ## 4. Semester
 
 - [htw-projekt-p2p-volltextsuche/p2p-dht](https://github.com/htw-projekt-p2p-volltextsuche/p2p-dht) - Domänen agnostisches DHT in NodeJS [Verteilte Volltextsuche (Projekt)]
@@ -26,5 +28,4 @@
 
 ## Semesterübergreifend
 
-- [htw-folien](https://github.com/jneidel/htw-folien) - Folien zur Referenz (verschlüsselt)
 - [uni](https://github.com/jneidel/uni) - [Privat] Sync von Uni Unterlagen
