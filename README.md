@@ -1,6 +1,6 @@
 # Angewandte Informatik (BSc) an der HTW Berlin
 
-> Übersicht über mein Studium der Angewandten Informatik an der HTW Berlin
+> Übersicht über meine Projekte im Rahmen meines Studiums der Angewandten Informatik an der HTW Berlin
 
 ## 6. Semester
 
