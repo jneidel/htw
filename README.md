@@ -2,8 +2,13 @@
 
 > Übersicht über mein Studium der Angewandten Informatik an der HTW Berlin
 
+## 6. Semester
+
+- [QR-AR-Group/QR-Mixed-Reality-Framework](https://github.com/QR-AR-Group/QR-Mixed-Reality-Framework) - Unity AR Framework um beliebigen Webcontent in AR neben QR Codes darzustellen [Augmented Reality Applications and Theoretical Foundations]
+
 ## 5. Semester
 
+- [htw-kbe-jneidel](https://github.com/htw-kbe-jneidel) - Microservice Architektur in TypeScript, verbunden durch MQ RPC-calls [Komponentenbasierte Entwicklung]
 - [opengl-basketball](https://github.com/jneidel/opengl-basketball) - Einfaches Basketball-inspiriertes Spiel [Computergrafik]
 
 ## 4. Semester
