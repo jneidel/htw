@@ -4,6 +4,8 @@
 
 ## 5. Semester
 
+- [opengl-basketball](https://github.com/jneidel/opengl-basketball) - Einfaches Basketball-inspiriertes Spiel [Computergrafik]
+
 ## 4. Semester
 
 - [htw-projekt-p2p-volltextsuche/p2p-dht](https://github.com/htw-projekt-p2p-volltextsuche/p2p-dht) - Domänen agnostisches DHT in NodeJS [Verteilte Volltextsuche (Projekt)]
