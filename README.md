@@ -32,7 +32,3 @@
 
 - [htw-internet.org-entwicklung](https://github.com/jneidel/htw-internet.org-entwicklung) - Aufarbeitung von Facebook's Internet.org Initiative [Gesellschaftliche Aspekte der Informatik]
 - [htw-prog1](https://github.com/jneidel/htw-prog1) - einfache Java Übungsaufgaben [Programmieren 1]
-
-## Semesterübergreifend
-
-- [uni](https://github.com/jneidel/uni) - [Privat] Sync von Uni Unterlagen
